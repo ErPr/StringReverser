@@ -1,3 +1,3 @@
 # StringReverser
 Simple string reverser and test cases.
-Hellow Worlding for go repo with function and tests.
+Hellow Worlding for Go repo using a simple function and tests.
